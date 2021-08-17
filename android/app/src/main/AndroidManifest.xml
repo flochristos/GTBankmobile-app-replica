@@ -15,7 +15,7 @@
         android:label="gtbankapp"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDGT9tHR__FdEKX_pnG6s34URok7eDnQ_M"/>
+               android:value="YOUR_GOOGLEMAP_API"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
