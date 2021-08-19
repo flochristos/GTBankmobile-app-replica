@@ -39,7 +39,7 @@ class _BtmnavigationState extends State<Btmnavigation> {
             fit: BoxFit.cover,
           ),
         ),
-        height: 35,
+        height: 37,
         child: Row(
           children: [
             Expanded(

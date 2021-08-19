@@ -75,7 +75,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         children: [
                           FaIcon(
                             FontAwesomeIcons.angleLeft,
-                            size: 15,
+                            size: 14,
                             color: Colors.white60,
                           ),
                           Container(
